@@ -1,5 +1,8 @@
-# YBI-project
-Internship Sumbission for YBI
+## YBI Internship Submission
+Internship Submission for YBI machine learning
+Here is my final submission for this internship.
+In this final project submission, I used all the learning which I got throughout this internship.
+
 
 ![image](https://user-images.githubusercontent.com/83526473/219561343-34d110ef-42fc-4ee0-8e99-65786ca1eb1c.png)
 
